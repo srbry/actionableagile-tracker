@@ -1,2 +1,3 @@
 *.csv
 releases
+.DS_Store

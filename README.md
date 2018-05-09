@@ -4,7 +4,7 @@ This is a small CLI utitly that will export story transitions for [Pivotal Track
 
 ## Usage
 
-Download the relevant binary from releases.
+Download the relevant binary from [releases](https://github.com/srbry/actionableagile-tracker/releases).
 
 Run the executable and enter your details as prompted.
 
